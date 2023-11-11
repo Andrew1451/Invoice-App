@@ -55,7 +55,7 @@ export default function LoginForm() {
             </div>
           </div>
         </div>
-        <button>Login</button>
+        <LoginButton />
         <div className="flex items-end h-8 space-x-1">
           {/* Add form errors here */}
         </div>
